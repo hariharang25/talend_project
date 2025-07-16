@@ -9,4 +9,19 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_hAJ8AGImEfC7ItDGRg3IcA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_ETW10GIlEfC7ItDGRg3IcA",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_z7zjIGIlEfC7ItDGRg3IcA",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
 } ]
